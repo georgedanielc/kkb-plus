@@ -3,7 +3,7 @@ import Header from "./components/header";
 import Hero from "./components/hero";
 import HowItWorks from "./components/howitworks";
 import BillSplitter from "./components/billsplitter";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 import { ThemeProvider } from "@mui/material";
 import theme from "./theme";
 
