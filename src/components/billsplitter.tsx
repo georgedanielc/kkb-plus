@@ -243,7 +243,7 @@ export default function BillSplitter() {
       border: '1px solid',
       borderColor: 'divider',
       borderRadius: 2,
-      backgroundColor: "primary.main",
+      backgroundColor: "#f9f9f9",
     }}>
       {/* Name field - full width on mobile */}
       <TextField
